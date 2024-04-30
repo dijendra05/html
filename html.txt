@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>daddy ka queen</title>
+</head>
+<body>
+   <img src="C:\Users\Samba\Downloads\img" >
+    <p>
+    every daighter's first love his father
+    </p>
+</body>
+</html>
